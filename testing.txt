@@ -1,3 +1,7 @@
 This text file is for testing github.
 Learning github and git.
 This is for studying purposes.
+
+Tambahan:-
+Github is fun
+Git is fun
