@@ -3,5 +3,4 @@ Learning github and git.
 This is for studying purposes.
 
 Tambahan:-
-Github is fun
 Git is fun
